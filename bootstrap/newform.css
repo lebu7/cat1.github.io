@@ -1,0 +1,20 @@
+body {
+	margin-top: 20px;
+}
+.container{
+	border:solid blue 1px;
+}
+.main{
+	margin:0px;
+}
+.first{
+	margin-left: 690px;
+	font-size: 12px;
+	margin-bottom: 1px;
+}
+.second{
+	color:blue;
+}
+legend{
+	background-color: lightblue;
+}

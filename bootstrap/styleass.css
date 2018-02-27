@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+}
+.thumbnail{
+	margin:15px;
+}
+.row{
+   display: block;
+  margin: 10px;
+  width: 118%;
+}
